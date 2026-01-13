@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server';
 
 cloudinary.config({
     cloud_name: 'dq3vddbhi',
-    api_key: process.env.CLOUDINARY_API_KEY, // Needs to be set in .env
+    api_key: '556663513412298', // Needs to be set in .env
     api_secret: 'mqDpYzKr12HAEoh5TmsoWsW7_gQ',
 });
 
